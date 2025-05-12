@@ -25,5 +25,6 @@ public class Dept {
 	
 	@Column(name = "loc")
 	private String loc;
+
 	
 }
